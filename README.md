@@ -1,10 +1,10 @@
-<p align="center">
+<palign="center">
   <a href="http://nestjs.com/" target="blank">
     <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" />
   </a>
 </p>
 
-# Mayen API
+# SELVIN API
 
 1. Clonar proyecto
 2. Instalar las dependencias
@@ -18,3 +18,5 @@
    `yarn start:dev`
    ó
    `npm run start:dev`
+
+Se utilizo el proyecto pasado y se agrego una nueva tabla llamada clientes, asi mismo la opcion, de crear, leer, actualizar, y eliminar datos
