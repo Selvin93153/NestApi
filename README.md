@@ -20,3 +20,5 @@
    `npm run start:dev`
 
 Se utilizo el proyecto pasado y se agrego una nueva tabla llamada clientes, asi mismo la opcion, de crear, leer, actualizar, y eliminar datos. Tambien se adjunta carpeta con imagenes del funcionamiento de la applicacion
+LINK CON IMAGENES DEL FUNCIONAMIENTO CARGADAS A DRIVE
+https://drive.google.com/drive/folders/1xhozQEzIKhEg_ociNvbFumrjBSBsLd-V?usp=sharing
